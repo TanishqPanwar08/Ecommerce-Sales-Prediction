@@ -29,3 +29,24 @@ Install the dependencies using the following command:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost plotly
+
+## Usage
+### 1. Clone the repository:
+```bash
+`git clone https://github.com/your_username/Ecommerce-Sales-Prediction.git`
+### 2. Navigate to the project directory:
+```bash
+`cd Ecommerce-Sales-Prediction`
+### 3. Install the required dependencies:
+```bash
+`pip install -r requirements.txt`
+### 4. Open the Jupyter Notebook and run the cells to execute the analysis and prediction workflow.
+
+## Contributing
+Contributions are welcome! Please feel free to fork the repository and submit a Pull Request with your improvements.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For any questions or feedback, please contact tanishqpanwar0816@gmail.com
